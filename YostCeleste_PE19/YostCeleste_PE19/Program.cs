@@ -10,6 +10,10 @@ namespace YostCeleste_PE19
     {
         static void Main(string[] args)
         {
+            BinSearchTree tree = new BinSearchTree();
+
+            tree.HardCode();
+
         }
     }
 }
